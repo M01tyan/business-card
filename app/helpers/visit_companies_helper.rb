@@ -1,0 +1,2 @@
+module VisitCompaniesHelper
+end

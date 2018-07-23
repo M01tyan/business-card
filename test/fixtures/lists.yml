@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  of: MyString
+  visiting: MyString
+  companies: MyString
+  company: MyString
+  name: MyString
+
+two:
+  of: MyString
+  visiting: MyString
+  companies: MyString
+  company: MyString
+  name: MyString
